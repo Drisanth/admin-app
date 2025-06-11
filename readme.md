@@ -25,8 +25,8 @@ This is a web-based User Management System built with **Node.js**, **Express**, 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/user-management-system.git
-   cd user-management-system
+   git clone https://github.com/Drisanth/admin-app.git
+   cd admin-app
    ````
 
 2. **Install dependencies**
